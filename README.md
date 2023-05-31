@@ -3,6 +3,7 @@
 <p align='center'>
 </p>
 
+[![wakatime](https://wakatime.com/badge/github/alialahverdi/alialahverdi.svg)](https://wakatime.com/badge/github/alialahverdi/alialahverdi)
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)

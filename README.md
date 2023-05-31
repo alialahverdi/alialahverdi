@@ -32,8 +32,7 @@
 <a href = 'https://www.github.com/alialahverdi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   <br>
 <br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2308c783-cc31-4c63-8dfa-d32f09f12703/6ca93de8-4809-4a14-9848-f458daaa9d7e.png" /></a>
-  
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2308c783-cc31-4c63-8dfa-d32f09f12703/604a93c2-7840-4d83-99e3-257c6f6c8158.png" /></a>
 <br>
 <br>
 <br>
